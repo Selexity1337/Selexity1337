@@ -24,5 +24,5 @@ I'm sins and I enjoy working with python
 * I would've given this shit up without you
 
 
-@@ +15,25 +15,21 @@
+<div align "right">
 <3 Sins
