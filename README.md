@@ -1,4 +1,4 @@
-@@ -15,25 +15,21 @@
+<div align="center">
 I'm sins and I enjoy working with python 
 ## Im currently working on:
 
